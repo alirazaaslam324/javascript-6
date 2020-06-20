@@ -1,0 +1,83 @@
+
+img
+{
+	margin-top: 5px;
+	width: 45%;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+ 
+}
+h1 
+{
+	text-align: center;
+	color: #7125E3;
+	
+}
+h3
+{
+	color: #7125E3;
+	text-align: center;
+}
+.form
+{
+	display: block;
+ 	 margin-left: auto;
+ 	 margin-right: auto;
+	background-color: #7125E3;
+	padding: 15px;
+	color: #fff;
+	border-radius: 20px;
+}
+tr td
+{
+	font-size: 12px;
+	padding: 4px;
+	
+}
+#mnth
+{
+	width: 65px;
+}
+.ql
+{
+	width: 125px;
+}
+.qlft tr td
+{
+	font-size: 15px;
+}
+.table2 tr
+{
+	
+	margin-left: auto;
+ 	margin-right: auto;
+}
+.table2 td
+{
+	text-align: center;
+}
+#address
+{
+	height: 60px;
+	width: 27.5%;
+	
+}
+.hobby
+{
+	padding-left: 24px;
+}
+.sbmt
+{
+	text-align: center;
+}
+.btn
+{
+	background-color: #019C37;
+	padding: 3px  40px;
+	margin: 0px 5px;
+	color: #fff;
+}
